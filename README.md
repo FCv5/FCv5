@@ -10,3 +10,4 @@ With my language skill, My mother language is Chinese (Mandarin), English and a 
 are most ideas and practise I have had. 
 I haven't been not in IT industry for long cause my master major is about machanic, most of IT skills I have relies on my self-study, but finaly I got an IT job to develop .NET 
 web that I can keep learning.
+ 
